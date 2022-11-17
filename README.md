@@ -1,1 +1,5 @@
-# ml_project_ci_cd
+Software and Account Requirement 
+GitHub Account
+Heroku Account 
+Vs Code 
+Git CLI
